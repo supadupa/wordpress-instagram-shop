@@ -2,8 +2,8 @@
 Contributors: Snapppt
 Tags: instagram shop, shoppable instagram, social commerce, increase conversion, get more sales, increase sales, instagram marketing, instagram gallery, instagram feed embed, instagram live feed, sales conversions, analytics,  customer acquisition
 Requires at least: 2.8.0
-Tested up to: 4.7.5
-Stable tag: 1.1.3
+Tested up to: 4.9.7
+Stable tag: 1.1.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -110,6 +110,10 @@ There’s also a handy [Help centre](http://help.snapppt.com). We are constantly
 
 
 == Changelog ==
+
+= 1.1.4 =
+
+Tested as working with the latest version of Wordpress
 
 = 1.1.3 =
 
