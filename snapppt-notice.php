@@ -27,13 +27,12 @@ $never_url = add_query_arg('snapppt-notice-never', '1');
 
 $snapppt_notice = <<<EOT
   <div class="snapppt-notice notice is-dismissible">
-    <p class="snapppt-notice-first-line">Get more features! - Would you consider supporting us with a review?</p>
-    <p class="snapppt-notice-second-line">We promise to <b>return the favour</b> with the latest updates. <a href="http://help.snapppt.com/faq-and-troubleshooting/whats-new" target="_blank">What's New?</a></p>
+    <p class="snapppt-notice-first-line">We're totally grateful for the exceptionally supportive reviews we receive...</p>
+    <p class="snapppt-notice-second-line">Would you be okay if we prompted you to consider supporting us by leaving us a review?</p>
     <p class="snapppt-notice-link-line">
       <a href="https://wordpress.org/support/plugin/shop-feed-for-instagram-by-snapppt/reviews/" target="_blank">Yes, I'll leave a review</a>
       <a href="$never_url">I've already left one</a>
       <a href="$maybe_later_url">Maybe later</a>
-      <a href="$never_url">Never show again</a>
     </p>
   </div>
 EOT;
