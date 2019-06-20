@@ -1,4 +1,4 @@
-=== Instagram Shop by Snapppt ===
+=== Shoppable galleries for Instagram by Snapppt ===
 Contributors: Snapppt
 Tags: instagram shop, shoppable instagram, social commerce, increase conversion, get more sales, increase sales, instagram marketing, instagram gallery, instagram feed embed, instagram live feed, sales conversions, analytics,  customer acquisition
 Requires at least: 2.8.0
@@ -7,7 +7,7 @@ Stable tag: 1.1.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Instagram Shop plugin by Snapppt is a free WP plugin that lets your customers shop your Instagram feed.
+Shoppable galleries for Instagram by Snapppt is a free WP plugin that lets your customers shop your Instagram feed.
 
 == Description ==
 
@@ -22,7 +22,7 @@ With endless flexibility, the Snapppt Instagram shop plugin gives access to all 
 * Embed shoppable Instagram galleries & carousels into your store
 * Plug & play with WordPress - Easy to use and setup takes only 3 minutes!
 
-Instagram Shop plugin by Snapppt
+Shoppable galleries for Instagram by Snapppt
 
 = Get Snapppt to let your customers shop your Instagram feed =
 
