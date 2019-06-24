@@ -50,15 +50,14 @@ Customers no longer need to hunt down the things they saw in your instagram feed
 
 Instagram shop pages:
 
-* [JWon London](http://www.j-won.com/j-won-london-instagram-shop) - fashion brand
-* [Local Kine Kini](http://www.localkinekini.com) - Swimwear brand
-* [Thakila](https://snapppt.com/thaikila) - Swimwear brand
-* [Thakila (Expanded view)](https://snapppt.com/thaikila/items/18427953-fa42-41a4-9a2a-e4a0ac862b55) - Swimwear brand
-* [Yoga Democracy](https://snapppt.com/yoga_democracy) - Swimwear brand
-* [Sugar House Supply](https://sugarhouse-supply-company.myshopify.com/pages/shop-our-instagram) - Interiors & Design brand
-* [Arlo Jewellery](http://arlojewellery.com/pages/instashop) - Jewellery
-* [We Are Makers](https://snapppt.com/wearemakers.official) - Design brand
-* [Chrldr](https://www.chrldr.com) - Women’s athletic fashion brand
+* [NeverFullyDressed](https://www.neverfullydressed.co.uk/pages/insta)
+* [Tularosa](https://www.tularosa.com/pages/shop-instagram)
+* [NakedWolfe](https://nakedwolfe.com/pages/instagram)
+* [DylanLex](https://dylanlex.com/pages/shop-the-instagram)
+* [AbbottLyon](https://www.abbottlyon.com/pages/abbottlyon)
+* [FunSocks](https://funsocks.com/)
+* [BurtsBeesBaby](https://www.burtsbeesbaby.com/)
+* [Ginia](https://www.giniartw.com/pages/shop-instagram)
 
 == Installation ==
 
