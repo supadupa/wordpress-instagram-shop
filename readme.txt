@@ -1,6 +1,6 @@
 === Shoppable galleries for Instagram by Snapppt ===
 Contributors: Snapppt
-Tags: instagram shop, shoppable instagram, social commerce, increase conversion, get more sales, increase sales, instagram marketing, instagram gallery, instagram feed embed, instagram live feed, sales conversions, analytics,  customer acquisition
+Tags: instagram shop, shoppable instagram, shoppable galleries, shoppable feed, social commerce, increase conversion, get more sales, increase sales, instagram marketing, instagram gallery, instagram feed embed, instagram live feed, sales conversions, analytics,  customer acquisition
 Requires at least: 2.8.0
 Tested up to: 5.1.1
 Stable tag: 1.1.6
@@ -13,13 +13,13 @@ Shoppable galleries for Instagram by Snapppt is a free WP plugin that lets your 
 
 [vimeo https://vimeo.com/193733383]
 
-Snapppt is a free Instagram shop plugin that turns your Instagram images into picture perfect shoppable links. Built to integrate seamlessly with WordPress, Snapppt’s Instagram shop is changing the way your customers discover and shop your products from your Instagram feed and in your store. Used by a growing number of over 3000 brands Snapppt’s instagram shop plugin has statistically shown to provide store owners and developers with an average 270% uplift in sales conversion rates. Instagram photos displayed and linked to products via the Snapppt plugin, whether from your Snapppt shoppable profile page, your embeddable shoppable Instagram feed or, an expanded shoppable product card results in 3% - 11% sales conversion rate. You can track your own Instagram shop’s performance for yourself via Snapppt’s dashboard analytics when using your conversion code in your checkout.
+Snapppt is a free plugin that helps you create shoppable galleries of your Instagram feed by turning your Instagram images into picture perfect shoppable links. Built to integrate seamlessly with WordPress, Snapppt’s shoppable galleries are changing the way your customers discover and shop your products from your Instagram feed and in your store. Used by a growing number of over 70,000 brands Snapppt’s shoppable galleries plugin has statistically shown to provide store owners and developers with an average 270% uplift in sales conversion rates. Instagram photos displayed and linked to products via the Snapppt plugin, whether from your Snapppt shoppable profile page, your embeddable shoppable Instagram feed or, an expanded shoppable product card results in 3% - 11% sales conversion rate. You can track your own shoppable galleries for Instagram feed’s performance for yourself via Snapppt’s dashboard analytics when using your conversion code in your checkout.
 
-With endless flexibility, the Snapppt Instagram shop plugin gives access to all your Instagram photos to be used as proven persuasion agents in your effort to grow your sales through conversion tracking and heightened customer engagement.
+With endless flexibility, the Shoppable galleries for Instagram by Snapppt plugin gives access to all your Instagram photos to be used as proven persuasion agents in your effort to grow your sales through conversion tracking and heightened customer engagement.
 
-* Snapppt is a free Instagram shop plugin that
+* Snapppt is a free shoppable galleries for Instagram feed plugin that
 * Increase sales by making your Instagram feed instantly shoppable
-* Embed shoppable Instagram galleries & carousels into your store
+* Embed shoppable Instagram feed galleries & carousels into your store
 * Plug & play with WordPress - Easy to use and setup takes only 3 minutes!
 
 Shoppable galleries for Instagram by Snapppt
@@ -48,7 +48,7 @@ Customers no longer need to hunt down the things they saw in your instagram feed
 
 = Examples =
 
-Instagram shop pages:
+Shoppable Instagram feed galleries:
 
 * [NeverFullyDressed](https://www.neverfullydressed.co.uk/pages/insta)
 * [Tularosa](https://www.tularosa.com/pages/shop-instagram)
@@ -68,13 +68,13 @@ WooCommerce 2 (WooCommerce 3 or greater is recommended)
 
 = Automatic installation =
 
-Automatic installation is the easiest option as WordPress handles the file transfers itself and you don’t need to leave your web browser. To do an automatic install of Instagram Shop by Snapppt, log in to your WordPress dashboard, navigate to the Plugins menu and click Add New.
+Automatic installation is the easiest option as WordPress handles the file transfers itself and you don’t need to leave your web browser. To do an automatic install of Shoppable galleries for Instagram by Snapppt, log in to your WordPress dashboard, navigate to the Plugins menu and click Add New.
 
-In the search field type “Snapppt” and click Search Plugins. Once you've found our Instagram Shop plugin you can view details about it such as the point release, rating and description. Most importantly of course, you can install it by simply clicking “Install Now”.
+In the search field type “Snapppt” and click Search Plugins. Once you've found our Shoppable galleries for Instagram by Snapppt plugin you can view details about it such as the point release, rating and description. Most importantly of course, you can install it by simply clicking “Install Now”.
 
 = Manual installation =
 
-The manual installation method involves downloading our Instagram Shop plugin and uploading it to your webserver via your favourite FTP application. The WordPress codex contains [instructions on how to do this here](https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation).
+The manual installation method involves downloading our Shoppable galleries for Instagram by Snapppt plugin and uploading it to your webserver via your favourite FTP application. The WordPress codex contains [instructions on how to do this here](https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation).
 
 = Updating =
 
