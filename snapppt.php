@@ -7,7 +7,7 @@ if(!defined( 'ABSPATH' )) exit; // Exit if accessed directly
   Plugin URI: http://help.snapppt.com/woocommerce-and-wordpress/instagram-shop-plugin-for-wordpress-and-woocommerce-by-snapppt
   Description: Shoppable Social Media Galleries by SNPT is a free WP plugin that lets your customers shop your Instagram feed.
   Author: Snapppt
-  Version: 1.1.9
+  Version: 1.1.10
   Author URI: http://getsnapppt.com
   License: GPLv2
 */
@@ -30,7 +30,7 @@ if(!defined( 'ABSPATH' )) exit; // Exit if accessed directly
 * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
-define('SNAPPPT_URL', 'https://snapppt.com');
+define('SNAPPPT_URL', 'https://snapppt.test');
 define('SNAPPPT_PLUGIN_PATH', plugin_dir_path(__FILE__));
 define('SNAPPPT_PLUGIN_URL', plugin_dir_url(__FILE__));
 

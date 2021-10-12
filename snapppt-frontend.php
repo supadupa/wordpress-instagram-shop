@@ -13,7 +13,7 @@ function snapppt_shortcodes_init() {
     ), $atts);
 
     if($embed_data['account_id'] == '') {
-      return "<p>[ Snapppt Embed - No account ID provided! ]</p>";
+      return "<p>[ SNPT Embed - No account ID provided! ]</p>";
     } else {
       return "<script src='" . $embed_endpoint . esc_html($embed_data['account_id']) . "/" .
         esc_html($embed_data['embed_type']) . ".js' class='snapppt-widget'></script>";
@@ -47,7 +47,7 @@ function insert_snapppt_conversion_code($order_id) {
   $conversion_url  = SNAPPPT_URL . '/conversion-tracker.js';
 
 $snapppt_conversion_code = <<<EOT
-  <!-- Snapppt conversion code -->
+  <!-- SNPT conversion code -->
   <script>
     window.snapppt_order_number = '$order_number';
     window.snapppt_order_total = '$order_total';
