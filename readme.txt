@@ -2,8 +2,8 @@
 Contributors: Sauce (powered by SNPT)
 Tags: instagram shop, shoppable instagram, shoppable galleries, shoppable feed, social commerce, increase conversion, get more sales, increase sales, instagram marketing, instagram gallery, instagram feed embed, instagram live feed, sales conversions, analytics,  customer acquisition
 Requires at least: 2.8.0
-Tested up to: 5.8.1
-Stable tag: 1.1.10
+Tested up to: 5.8.2
+Stable tag: 1.1.11
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -109,10 +109,14 @@ There’s also a handy [Help centre](http://help.snapppt.com). We are constantly
 
 
 == Changelog ==
+= 1.1.11 =
+
+Tested as working with the latest version of Wordpress (5.8.2) and WooCommerce (5.71)
+Fixes a rendering issue affecting some SNPT embeds
 
 = 1.1.10 =
 
-Tested as working with the latest version of Wordpress (5.81) and WooCommerce (5.71)
+Tested as working with the latest version of Wordpress (5.8.1) and WooCommerce (5.71)
 Snapppt renamed to SNPT across the Plugin
 'Add SNPT Embed' removed pending update of newer Embeds at SNPT
 
