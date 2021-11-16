@@ -30,7 +30,7 @@ if(!defined( 'ABSPATH' )) exit; // Exit if accessed directly
 * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
-define('SNAPPPT_URL', 'https://snapppt.test');
+define('SNAPPPT_URL', 'https://snapppt.com');
 define('SNAPPPT_PLUGIN_PATH', plugin_dir_path(__FILE__));
 define('SNAPPPT_PLUGIN_URL', plugin_dir_url(__FILE__));
 
