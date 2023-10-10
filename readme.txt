@@ -1,48 +1,48 @@
-=== Shoppable Social Media Galleries by SNPT ===
-Contributors: Sauce (powered by SNPT)
+=== Shoppable Social Media Galleries by Sauce ===
+Contributors: Sauce
 Tags: instagram shop, shoppable instagram, shoppable galleries, shoppable feed, social commerce, increase conversion, get more sales, increase sales, instagram marketing, instagram gallery, instagram feed embed, instagram live feed, sales conversions, analytics,  customer acquisition
 Requires at least: 2.8.0
-Tested up to: 6.1.1
-Stable tag: 1.1.12
+Tested up to: 6.3.1
+Stable tag: 1.1.13
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Shoppable Social Media Galleries by SNPT is a free WP plugin that lets your customers shop your Instagram feed.
+Shoppable Social Media Galleries by Sauce is a free WP plugin that lets your customers shop your Instagram feed.
 
 == Description ==
 
 [vimeo https://vimeo.com/522551924]
 
-SNPT is a free plugin that helps you create shoppable galleries of your Instagram feed by turning your Instagram images into picture perfect shoppable links. Built to integrate seamlessly with WordPress, SNPT’s shoppable galleries are changing the way your customers discover and shop your products from your Instagram feed and in your store. Used by a growing number of over 70,000 brands SNPT’s shoppable galleries plugin has statistically shown to provide store owners and developers with an average 270% uplift in sales conversion rates. Instagram photos displayed and linked to products via the SNPT plugin, whether from your SNPT shoppable profile page, your embeddable shoppable Instagram feed or, an expanded shoppable product card results in 3% - 11% sales conversion rate. You can track your own shoppable galleries for Instagram feed’s performance for yourself via SNPT’s dashboard analytics when using your conversion code in your checkout.
+Sauce is a free plugin that helps you create shoppable galleries of your Instagram feed by turning your Instagram images into picture perfect shoppable links. Built to integrate seamlessly with WordPress, Sauce’s shoppable galleries are changing the way your customers discover and shop your products from your Instagram feed and in your store. Used by a growing number of over 70,000 brands Sauce’s shoppable galleries plugin has statistically shown to provide store owners and developers with an average 270% uplift in sales conversion rates. Instagram photos displayed and linked to products via the Sauce plugin, whether from your Sauce shoppable profile page, your embeddable shoppable Instagram feed or, an expanded shoppable product card results in 3% - 11% sales conversion rate. You can track your own shoppable galleries for Instagram feed’s performance for yourself via Sauce’s dashboard analytics when using your conversion code in your checkout.
 
-With endless flexibility, the Shoppable galleries for Instagram by SNPT plugin gives access to all your Instagram photos to be used as proven persuasion agents in your effort to grow your sales through conversion tracking and heightened customer engagement.
+With endless flexibility, the Shoppable galleries for Instagram by Sauce plugin gives access to all your Instagram photos to be used as proven persuasion agents in your effort to grow your sales through conversion tracking and heightened customer engagement.
 
-* SNPT is a free shoppable galleries for Instagram feed plugin that
+* Sauce is a free shoppable galleries for Instagram feed plugin that
 * Increase sales by making your Instagram feed instantly shoppable
 * Embed shoppable Instagram feed galleries & carousels into your store
 * Plug & play with WordPress - Easy to use and setup takes only 3 minutes!
 
-Shoppable Social Media Galleries by SNPT
+Shoppable Social Media Galleries by Sauce
 
-= Get SNPT to let your customers shop your Instagram feed =
+= Get Sauce to let your customers shop your Instagram feed =
 
-★★★ SNPT is an Approved Instagram App ★★★
+★★★ Sauce is an Approved Instagram App ★★★
 
-= SNPT is... =
-...so easy to use that it’s hard to explain. We made it really, really simple for people to make shoppable, embeddable Instagram galleries, catalogues & lookbooks from their feed and put whatever they want in it. Fashion, design, art, extreme sports, kids, jewelry. SNPT is a gazillion different shoppable Instagram catalogues, filled with literally whatever.
+= Sauce is... =
+...so easy to use that it’s hard to explain. We made it really, really simple for people to make shoppable, embeddable Instagram galleries, catalogues & lookbooks from their feed and put whatever they want in it. Fashion, design, art, extreme sports, kids, jewelry. Sauce is a gazillion different shoppable Instagram catalogues, filled with literally whatever.
 
 = Are you losing precious Instagram traffic and sales? =
-65% of Instagram users use their feeds to discover new brands and for online shopping inspiration. With SNPT, you can make Instagram become your next customer acquisition, sales pipeline, making it easy for your followers to buy the product they see in your Instagram posts.
+65% of Instagram users use their feeds to discover new brands and for online shopping inspiration. With Sauce, you can make Instagram become your next customer acquisition, sales pipeline, making it easy for your followers to buy the product they see in your Instagram posts.
 
 = Don’t know which are your best performing images? - Still using bit.ly? =
 Successful brands know that the connection between sight and desire is visceral, primal and not to be ignored. But, most content creators don’t, it’s left to guesswork, or, at least they have never had a way to clearly identify which images work for them and which ones don’t. Unquestionably, the majority of sellers using Instagram as a marketing channel find it difficult to identify the images that prompt their visitors to come to their shops yet alone the ones that compel them to buy. If you’ve been thinking about this or, perhaps even attempted to use, say, a bit.ly link in your Instagram bio in order to have some basic tracking for your Instagram clicks, then this thing is for you.
 
 = You already know this thing works =
-see our [getting started guide](http://www.getsnapppt.com/getting-started-guide)
+see our [getting started guide](https://help.addsauce.com/en/collections/186568-getting-started)
 
 1. Connect to Instagram to automatically fetch images from your feed
-2. Link images with your products using SNPT’s plug-n-play WooCommerce store integration. Now, anyone can shop your products.
-3. Embed shoppable galleries and carousels directly in your store or, if you prefer copy & paste your personalized URL to link to your SNPT page in your bio link.
+2. Link images with your products using Sauce’s plug-n-play WooCommerce store integration. Now, anyone can shop your products.
+3. Embed shoppable galleries and carousels directly in your store or, if you prefer copy & paste your personalized URL to link to your Sauce page in your bio link.
 4. Your customers and your orders will appear in your shop dashboard, exactly as you’d expect. Purchases made as a result of a customer seeing your Instagram images are tracked all the way to the checkout so that you can see your best performing images and the purchases they inspired.
 Customers no longer need to hunt down the things they saw in your instagram feed in your store as each Instagram image is now linked with a ‘Buy’ button.
 
@@ -68,13 +68,13 @@ WooCommerce 2 (WooCommerce 5 or greater is recommended)
 
 = Automatic installation =
 
-Automatic installation is the easiest option as WordPress handles the file transfers itself and you don’t need to leave your web browser. To do an automatic install of Shoppable galleries for Instagram by SNPT, log in to your WordPress dashboard, navigate to the Plugins menu and click Add New.
+Automatic installation is the easiest option as WordPress handles the file transfers itself and you don’t need to leave your web browser. To do an automatic install of Shoppable galleries for Instagram by Sauce, log in to your WordPress dashboard, navigate to the Plugins menu and click Add New.
 
-In the search field type “SNPT” and click Search Plugins. Once you've found our Shoppable galleries for Instagram by SNPT plugin you can view details about it such as the point release, rating and description. Most importantly of course, you can install it by simply clicking “Install Now”.
+In the search field type “Sauce” and click Search Plugins. Once you've found our Shoppable galleries for Instagram by Sauce plugin you can view details about it such as the point release, rating and description. Most importantly of course, you can install it by simply clicking “Install Now”.
 
 = Manual installation =
 
-The manual installation method involves downloading our Shoppable galleries for Instagram by SNPT plugin and uploading it to your webserver via your favourite FTP application. The WordPress codex contains [instructions on how to do this here](https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation).
+The manual installation method involves downloading our Shoppable galleries for Instagram by Sauce plugin and uploading it to your webserver via your favourite FTP application. The WordPress codex contains [instructions on how to do this here](https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation).
 
 = Updating =
 
@@ -85,19 +85,19 @@ Automatic updates should work as per normal. As with an update of any plugin, yo
 
 = What does this plugin add to Wordpress/WooCommerce? =
 
-Wordpress - this plugin makes it easy for you to make use of your SNPT shoppable embed on any page or blog post of your website. You’ll see a button added to the toolbar of the page editor, which when clicked, allows you to select the SNPT Embed type (i.e Grid, Stacked or, Carousel) you would like, and then inserts the corresponding shortcode into the content.
+Wordpress - this plugin makes it easy for you to make use of your Sauce shoppable embed on any page or blog post of your website. You’ll see a button added to the toolbar of the page editor, which when clicked, allows you to select the Sauce Embed type (i.e Grid, Stacked or, Carousel) you would like, and then inserts the corresponding shortcode into the content.
 
-WooCommerce - if you are using the WooCommerce plugin for your store, this plugin will automatically insert the SNPT Conversion code on the 'Thank you' page, displayed once an order has been placed. This allows you to track your customers’ conversion data on your SNPT Analytics page, providing insight into your stores performance, and the impact of media used via SNPT on your store’s success.
+WooCommerce - if you are using the WooCommerce plugin for your store, this plugin will automatically insert the Sauce Conversion code on the 'Thank you' page, displayed once an order has been placed. This allows you to track your customers’ conversion data on your Sauce Analytics page, providing insight into your stores performance, and the impact of media used via Sauce on your store’s success.
 
 = How do I get started? =
 
-We’ve put together a step-by-step [getting started guide](http://www.getsnapppt.com/getting-started-guide) to help answer the most commonly asked questions we get.
+We’ve put together a step-by-step [getting started guide](https://help.addsauce.com/en/collections/186568-getting-started) to help answer the most commonly asked questions we get.
 
 = How do I get in touch with you? =
 
-We love hearing from our supportive customers. You can ping us a message through our messaging app in your SNPT dashboard. We’re a small team (not a multinational call centre) so getting back to you relies on us being awake when you are. If we aren’t we promise to ping you back just as soon as the sun has risen again. *We do care*, mostly because, selfishly, we want you to too.
+We love hearing from our supportive customers. You can ping us a message through our messaging app in your Sauce dashboard. We’re a small team (not a multinational call centre) so getting back to you relies on us being awake when you are. If we aren’t we promise to ping you back just as soon as the sun has risen again. *We do care*, mostly because, selfishly, we want you to too.
 
-There’s also a handy [Help centre](http://help.snapppt.com). We are constantly updating it with new tips and tricks to help you make the most out of your shoppable Instagram feed, boost sale conversions and drive new customers at your store.
+There’s also a handy [Help centre](http://help.addsauce.com). We are constantly updating it with new tips and tricks to help you make the most out of your shoppable Instagram feed, boost sale conversions and drive new customers at your store.
 
 
 == Screenshots ==
@@ -109,6 +109,10 @@ There’s also a handy [Help centre](http://help.snapppt.com). We are constantly
 
 
 == Changelog ==
+
+= 1.1.13 =
+
+Update SNPT to Sauce to reflect our new name
 
 = 1.1.12 =
 

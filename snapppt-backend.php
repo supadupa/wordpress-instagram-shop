@@ -37,10 +37,10 @@ function snapppt_is_setup() {
 // add SNPT to the left hand admin menu
 function snapppt_settings_menu() {
  $menu_icon = SNAPPPT_PLUGIN_URL .'/images/snapppt-logo-square.png';
- $menu_title = "SNPT";
+ $menu_title = "Sauce";
 
- if(!snapppt_is_setup()) { $menu_title .= '<span class="update-plugins"><span class="update-count">Setup</span></span>'; }
- add_menu_page('SNPT', $menu_title, 'manage_options', 'snapppt_settings', 'snapppt_settings_content', $menu_icon);
+ if(!snapppt_is_setup()) { $menu_title .= '<span style="margin-left: 5px" class="update-plugins"><span class="update-count">Setup</span></span>'; }
+ add_menu_page('Sauce', $menu_title, 'manage_options', 'snapppt_settings', 'snapppt_settings_content', $menu_icon);
 }
 add_action('admin_menu', 'snapppt_settings_menu');
 

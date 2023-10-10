@@ -9,7 +9,7 @@
   <br />
 
   <a href="<?php echo SNAPPPT_URL ?>" target="_blank">
-    <img src="<?php echo SNAPPPT_PLUGIN_URL . 'images/snapppt-logo-white.png' ?>" class="snapppt-logo">
+    <img src="<?php echo SNAPPPT_PLUGIN_URL . 'images/sauce-logo.svg' ?>" class="snapppt-logo">
   </a>
 
   <form method="POST" action="options.php">
@@ -17,13 +17,13 @@
 
     <?php if(snapppt_is_setup()) { ?>
 
-      <p class="snapppt_large_line">Your SNPT Account ID</p>
+      <p class="snapppt_large_line">Your Sauce Account ID</p>
 
     <?php } else { ?>
 
-      <p class="snapppt_large_line">New to SNPT?</p>
+      <p class="snapppt_large_line">New to Sauce?</p>
       <a target="_blank" href="<?php echo SNAPPPT_URL ?>/users/sign_up" class="button-primary snapppt-button snapppt-button--white" style="margin-bottom: 30px">Get Started</a>
-      <p class="snapppt_large_line">Have a SNPT account?</p>
+      <p class="snapppt_large_line">Have a Sauce account?</p>
       <p class="snapppt_small_line">Copy paste your Account ID here</p>
 
     <?php } ?>
@@ -34,7 +34,7 @@
       value="<?php echo snapppt_is_setup() ? esc_html($snapppt_options['account_id']) : ''; ?>" class="regular-text snapppt_input_field" />
 
     <br />
-    <p style="margin-bottom: 20px" class="snapppt_small_line">You can find this in your SNPT <a href="<?php echo SNAPPPT_URL ?>/account/edit" target="_blank">Account details</a> page</p>
+    <p style="margin-bottom: 20px" class="snapppt_small_line">You can find this in your Sauce <a href="<?php echo SNAPPPT_URL ?>/account/edit" target="_blank">Account details</a> page</p>
 
     <br />
     <input type="submit" class="button-primary snapppt-button" value="Save">

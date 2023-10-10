@@ -3,17 +3,17 @@
 if(!defined( 'ABSPATH' )) exit; // Exit if accessed directly
 
 /*
-  Plugin Name: Shoppable Social Media Galleries by SNPT
-  Plugin URI: http://help.snapppt.com/woocommerce-and-wordpress/instagram-shop-plugin-for-wordpress-and-woocommerce-by-snapppt
-  Description: Shoppable Social Media Galleries by SNPT is a free WP plugin that lets your customers shop your Instagram feed.
-  Author: Snapppt
-  Version: 1.1.12
-  Author URI: http://getsnapppt.com
+  Plugin Name: Shoppable Social Media Galleries by Sauce
+  Plugin URI: http://help.addsauce.com/woocommerce-and-wordpress/instagram-shop-plugin-for-wordpress-and-woocommerce-by-snapppt
+  Description: Shoppable Social Media Galleries by Sauce is a free WP plugin that lets your customers shop your Instagram feed.
+  Author: Sauce
+  Version: 1.1.13
+  Author URI: http://addsauce.com
   License: GPLv2
 */
 
 /**
-* Copyright (c) 2016 Snapppt (email : admin@snapppt.com)
+* Copyright (c) 2023 Sauce (email : tech@addsauce.com)
 *
 * This program is free software; you can redistribute it and/or modify
 * it under the terms of the GNU General Public License, version 2 or, at
@@ -30,7 +30,7 @@ if(!defined( 'ABSPATH' )) exit; // Exit if accessed directly
 * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
-define('SNAPPPT_URL', 'https://snapppt.com');
+define('SNAPPPT_URL', 'https://app.addsauce.com');
 define('SNAPPPT_PLUGIN_PATH', plugin_dir_path(__FILE__));
 define('SNAPPPT_PLUGIN_URL', plugin_dir_url(__FILE__));
 

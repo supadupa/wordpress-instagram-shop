@@ -17,6 +17,10 @@
   border-radius: 3px;
 }
 
+.snapppt-logo {
+  width: 300px
+}
+
 .snapppt-notice p {
   text-transform: uppercase;
   letter-spacing: 1px;
