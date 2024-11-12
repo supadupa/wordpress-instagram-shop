@@ -1,50 +1,36 @@
 === Shoppable Social Media Galleries by Sauce ===
 Contributors: Sauce
-Tags: instagram shop, shoppable instagram, shoppable galleries, shoppable feed, social commerce, increase conversion, get more sales, increase sales, instagram marketing, instagram gallery, instagram feed embed, instagram live feed, sales conversions, analytics,  customer acquisition
+Tags: social media, instagram, tiktok, social commerce, social proof
 Requires at least: 2.8.0
 Tested up to: 6.6.2
 Stable tag: 1.2.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Shoppable Social Media Galleries by Sauce is a free WP plugin that lets your customers shop your Instagram feed.
+== What is Sauce? ==
 
-== Description ==
+[youtube https://www.youtube.com/watch?v=5ONjtwm5u4U]
 
-[vimeo https://vimeo.com/522551924]
+A single platform to handle all the tough work of growing sales via social. A customer platform for social marketing, video and visual social shopping, influencers, UGC, and most importantly, growth. Sauce turns your Instagram & TikTok into captivating shopping experiences, unlocks your brand's potential to foster communities through User Generated Content and amplifies sales through Influencer Partnerships.
 
-Sauce is a free plugin that helps you create shoppable galleries of your Instagram feed by turning your Instagram images into picture perfect shoppable links. Built to integrate seamlessly with WordPress, Sauce’s shoppable galleries are changing the way your customers discover and shop your products from your Instagram feed and in your store. Used by a growing number of over 70,000 brands Sauce’s shoppable galleries plugin has statistically shown to provide store owners and developers with an average 270% uplift in sales conversion rates. Instagram photos displayed and linked to products via the Sauce plugin, whether from your Sauce shoppable profile page, your embeddable shoppable Instagram feed or, an expanded shoppable product card results in 3% - 11% sales conversion rate. You can track your own shoppable galleries for Instagram feed’s performance for yourself via Sauce’s dashboard analytics when using your conversion code in your checkout.
+Instagram & TikTok: Turn social posts into shoppable experiences.
+User Generated Content (UGC): Use real-world content to boost trust and sales.
+Influencer Partnerships: Unlock ROI with trusted voices.
+Sauce TV: Netflix-style video shopping that educates and converts.
+End-to-End: Your one-stop solution for UGC and influencer content.
 
-With endless flexibility, the Shoppable galleries for Instagram by Sauce plugin gives access to all your Instagram photos to be used as proven persuasion agents in your effort to grow your sales through conversion tracking and heightened customer engagement.
-
-* Sauce is a free shoppable galleries for Instagram feed plugin that
-* Increase sales by making your Instagram feed instantly shoppable
-* Embed shoppable Instagram feed galleries & carousels into your store
-* Plug & play with WordPress - Easy to use and setup takes only 3 minutes!
-
-Shoppable Social Media Galleries by Sauce
-
-= Get Sauce to let your customers shop your Instagram feed =
+[Visit our Website](https://www.addsauce.com) for case studies, demos and more.
 
 ★★★ Sauce is an Approved Instagram App ★★★
 
-= Sauce is... =
-...so easy to use that it’s hard to explain. We made it really, really simple for people to make shoppable, embeddable Instagram galleries, catalogues & lookbooks from their feed and put whatever they want in it. Fashion, design, art, extreme sports, kids, jewelry. Sauce is a gazillion different shoppable Instagram catalogues, filled with literally whatever.
+The Sauce WordPress Plugin is a core aspect to the integration between your Sauce Account and WordPress. The integration unlocks Live Links for easy Product Tagging and auto-installs the Sauce Conversion Code for insights into Sauce Platform performance. Further updates on the way to simplify the installation of your Sauce Embeds.
 
-= Are you losing precious Instagram traffic and sales? =
-65% of Instagram users use their feeds to discover new brands and for online shopping inspiration. With Sauce, you can make Instagram become your next customer acquisition, sales pipeline, making it easy for your followers to buy the product they see in your Instagram posts.
+Getting fully connected requires two simple steps:
 
-= Don’t know which are your best performing images? - Still using bit.ly? =
-Successful brands know that the connection between sight and desire is visceral, primal and not to be ignored. But, most content creators don’t, it’s left to guesswork, or, at least they have never had a way to clearly identify which images work for them and which ones don’t. Unquestionably, the majority of sellers using Instagram as a marketing channel find it difficult to identify the images that prompt their visitors to come to their shops yet alone the ones that compel them to buy. If you’ve been thinking about this or, perhaps even attempted to use, say, a bit.ly link in your Instagram bio in order to have some basic tracking for your Instagram clicks, then this thing is for you.
+1. Install this Sauce Plugin in your WordPress Store Admin
+2. Connect to your WordPress Store from your Sauce Account Backoffice
 
-= You already know this thing works =
-see our [getting started guide](https://help.addsauce.com/en/collections/186568-getting-started)
-
-1. Connect to Instagram to automatically fetch images from your feed
-2. Link images with your products using Sauce’s plug-n-play WooCommerce store integration. Now, anyone can shop your products.
-3. Embed shoppable galleries and carousels directly in your store or, if you prefer copy & paste your personalized URL to link to your Sauce page in your bio link.
-4. Your customers and your orders will appear in your shop dashboard, exactly as you’d expect. Purchases made as a result of a customer seeing your Instagram images are tracked all the way to the checkout so that you can see your best performing images and the purchases they inspired.
-Customers no longer need to hunt down the things they saw in your instagram feed in your store as each Instagram image is now linked with a ‘Buy’ button.
+See our [Sauce x Woocommerce Documentation](https://help.addsauce.com/en/articles/395071-connecting-your-sauce-account-to-woocommerce-for-product-live-links) for more, and be sure to reach our to us if you have any questions!
 
 = Examples =
 
@@ -65,7 +51,7 @@ Shoppable Instagram feed galleries:
 
 = Minimum requirements =
 
-Wordpress 2.8.0 (Wordpress 5 or greater is recommended)
+WordPress 2.8.0 (WordPress 5 or greater is recommended)
 WooCommerce 2 (WooCommerce 5 or greater is recommended)
 
 = Automatic installation =
@@ -85,7 +71,7 @@ Automatic updates should work as per normal. As with an update of any plugin, yo
 
 == Frequently Asked Questions ==
 
-= What does this plugin add to Wordpress/WooCommerce? =
+= What does this plugin add to WordPress/WooCommerce? =
 
 Wordpress - this plugin makes it easy for you to make use of your Sauce shoppable embed on any page or blog post of your website. You’ll see a button added to the toolbar of the page editor, which when clicked, allows you to select the Sauce Embed type (i.e Grid, Stacked or, Carousel) you would like, and then inserts the corresponding shortcode into the content.
 
@@ -104,10 +90,11 @@ There’s also a handy [Help centre](http://help.addsauce.com). We are constantl
 
 == Screenshots ==
 
-1. Simple plug-n-play management tools
-2. Shoppable mobile views
-3. Buy now. Hotspot product links.
-4. Interactive shop embeds. Statistically proven to uplift % sales conversions.
+1. Let your customers shop via posts on web, PDPs and emails.
+2. Tap into the Buzz about your Brand. Turn #@ UGC Content into Sales.
+3. Re-imagine the Role of Influencer Collaborations in Your Business.
+4. Your Netflix-style video hub to streamline learning and buying with easy demos, #GRWM tips, and real-world examples.
+5. Your brand's mobile customer experience is expertly crafted for seamless navigation and optimal engagement.
 
 
 == Changelog ==
