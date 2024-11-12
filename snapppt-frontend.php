@@ -2,31 +2,14 @@
 
 if(!defined( 'ABSPATH' )) exit; // Exit if accessed directly
 
-function snapppt_shortcodes_init() {
-  function snapppt_embed_func($atts) {
-    global $snapppt_options;
-    $embed_endpoint = SNAPPPT_URL . '/widgets/widget_loader/';
-
-    $embed_data = shortcode_atts(array(
-      'embed_type' => 'grid',
-      'account_id' => $snapppt_options['account_id']
-    ), $atts);
-
-    if($embed_data['account_id'] == '') {
-      return "<p>[ Sauce Embed - No account ID provided! ]</p>";
-    } else {
-      return "<script src='" . $embed_endpoint . esc_html($embed_data['account_id']) . "/" .
-        esc_html($embed_data['embed_type']) . ".js' class='snapppt-widget'></script>";
-    }
-  }
-  add_shortcode('snapppt_embed', 'snapppt_embed_func');
-}
-add_action('init', 'snapppt_shortcodes_init');
-
-
 function insert_snapppt_conversion_code($order_id) {
+
+  # $snapppt_options was set when account ID required manually copy and paste
+  # we now push in via API setting, but fallback to $snapppt_options to help transition
   global $snapppt_options;
-  $account_id = $snapppt_options['account_id'];
+  $account_id = get_option('sauce_account_id');
+  if(empty($account_id)) { $account_id = $snapppt_options['account_id']; }
+
   if(empty($account_id)) { return; }
 
   $order = wc_get_order($order_id);
@@ -60,6 +43,9 @@ EOT;
 
   echo($snapppt_conversion_code);
 }
+
+// to render on the homepage to verify account ID
+// add_action('wp_head', 'insert_snapppt_conversion_code');
 
 add_action('woocommerce_thankyou', 'insert_snapppt_conversion_code');
 

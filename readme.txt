@@ -2,8 +2,8 @@
 Contributors: Sauce
 Tags: instagram shop, shoppable instagram, shoppable galleries, shoppable feed, social commerce, increase conversion, get more sales, increase sales, instagram marketing, instagram gallery, instagram feed embed, instagram live feed, sales conversions, analytics,  customer acquisition
 Requires at least: 2.8.0
-Tested up to: 6.3.1
-Stable tag: 1.1.13
+Tested up to: 6.6.2
+Stable tag: 1.2.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -50,14 +50,16 @@ Customers no longer need to hunt down the things they saw in your instagram feed
 
 Shoppable Instagram feed galleries:
 
-* [NeverFullyDressed](https://www.neverfullydressed.co.uk/pages/insta)
-* [Tularosa](https://www.tularosa.com/pages/shop-instagram)
-* [NakedWolfe](https://nakedwolfe.com/pages/instagram)
-* [DylanLex](https://dylanlex.com/pages/shop-the-instagram)
-* [AbbottLyon](https://www.abbottlyon.com/pages/abbottlyon)
-* [FunSocks](https://funsocks.com/)
-* [BurtsBeesBaby](https://www.burtsbeesbaby.com/)
-* [Ginia](https://www.giniartw.com/pages/shop-instagram)
+* [Bauwerk Colour](https://www.bauwerkcolour.com/)
+* [Ancient + Brave](https://ancientandbrave.earth/)
+* [Bruna the Label](https://brunathelabel.com/)
+* [In Bed Store](https://inbedstore.com/)
+* [Yagya](https://yagya.com/)
+* [Umberto Giannini](https://www.umbertogiannini.com/)
+* [Milla](https://itsmilla.com/)
+* [saint sass](https://saintsass.com/)
+* [Muli Collection](https://mulicollection.com/)
+* [Mockberg](https://mockberg.de/)
 
 == Installation ==
 
@@ -109,6 +111,13 @@ There’s also a handy [Help centre](http://help.addsauce.com). We are constantl
 
 
 == Changelog ==
+
+= 1.2.0 =
+
+Note: upon Upgrade, please visit the 'Connected Accounts' section in your Sauce Account backoffice to trigger a re-connect to approve new permissions.
+
+Simplifies installation by no longer requiring you to copy and paste in your Sauce account ID.
+Tested with the latest versions of Wordpress (6.6) and WooCommerce (9.3).
 
 = 1.1.13 =
 

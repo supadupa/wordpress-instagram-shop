@@ -18,6 +18,9 @@ function snapppt_show_review_notice() {
 }
 
 function snapppt_render_review_notice() {
+  # disable the notice till we update and resolve any potential issue
+  # with it not being dismissable as it should be
+  return;
 
 // only showing the review notice on the plugins page
 if(!snapppt_show_review_notice()) { return; }
