@@ -34,13 +34,63 @@ define('SNAPPPT_URL', 'https://app.addsauce.com');
 define('SNAPPPT_PLUGIN_PATH', plugin_dir_path(__FILE__));
 define('SNAPPPT_PLUGIN_URL', plugin_dir_url(__FILE__));
 
+
+# we have now moved away from 'snapppt_options' which required manual copy and paste
+# preserving the usage of the value for a smoother transition to the new API setup
 $snapppt_options = get_option('snapppt');
 function snapppt_options() { register_setting('snapppt_options', 'snapppt'); }
 add_action('admin_init', 'snapppt_options');
 
+/********************** SAUCE VERSION ***************/
+add_action('rest_api_init', 'register_version_endpoint');
+
+function register_version_endpoint() {
+    register_rest_route('sauce/v1', '/version', [
+        'methods' => 'GET',
+        'callback' => 'plugin_version'
+    ]);
+}
+
+function plugin_version() {
+    if (!function_exists('get_plugin_data')) {
+        require_once ABSPATH . 'wp-admin/includes/plugin.php';
+    }
+    $plugin_data = get_plugin_data(__FILE__);
+
+    return [
+        'name' => $plugin_data['Name'],
+        'version' => $plugin_data['Version'],
+    ];
+}
+/*******************END OF SAUCE VERSION ***************/
+
+
+// make the setting available to the REST API
+function sauce_register_setting() {
+  register_setting('woocommerce', 'sauce_account_id');
+}
+
+function sauce_add_setting($settings) {
+  $custom_settings = array(
+      array(
+          'title' => __('Sauce Account ID', 'woocommerce'),
+          'desc' => __('Your Sauce account ID for integration.', 'woocommerce'),
+          'id' => 'sauce_account_id',
+          'type' => 'text',
+          'default' => '',
+          'desc_tip' => true,
+      ),
+  );
+
+  // Insert our custom setting in the general WooCommerce settings array
+  $settings = array_merge($settings, $custom_settings);
+  return $settings;
+}
+
+add_action('admin_init', 'sauce_register_setting');
+add_filter('woocommerce_general_settings', 'sauce_add_setting');
+
 if(is_admin()) {
-  // handles the settings page, the editor additions for Snapppt shortcode
-  include SNAPPPT_PLUGIN_PATH . 'snapppt-backend.php';
   include SNAPPPT_PLUGIN_PATH . 'snapppt-notice.php';
 }
 
