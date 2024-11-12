@@ -7,8 +7,8 @@ function insert_snapppt_conversion_code($order_id) {
   # $snapppt_options was set when account ID required manually copy and paste
   # we now push in via API setting, but fallback to $snapppt_options to help transition
   global $snapppt_options;
-  $account_id = get_option('sauce_account_id') ?? $snapppt_options['account_id'];
-  // echo($account_id);
+  $account_id = get_option('sauce_account_id');
+  if(empty($account_id)) { $account_id = $snapppt_options['account_id']; }
 
   if(empty($account_id)) { return; }
 

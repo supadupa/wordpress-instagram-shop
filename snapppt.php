@@ -7,7 +7,7 @@ if(!defined( 'ABSPATH' )) exit; // Exit if accessed directly
   Plugin URI: http://help.addsauce.com/woocommerce-and-wordpress/instagram-shop-plugin-for-wordpress-and-woocommerce-by-snapppt
   Description: Shoppable Social Media Galleries by Sauce is a free WP plugin that lets your customers shop your Instagram feed.
   Author: Sauce
-  Version: 1.1.13
+  Version: 1.2.0
   Author URI: http://addsauce.com
   License: GPLv2
 */
