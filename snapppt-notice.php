@@ -3,6 +3,9 @@ if(!defined( 'ABSPATH' )) exit; // Exit if accessed directly
 
 
 function snapppt_show_review_notice() {
+  global $snapppt_options;
+  if(!snapppt_is_setup()) { return false; }
+
   $current_page = get_current_screen()->id;
   if($current_page != 'plugins') { return false; }
 

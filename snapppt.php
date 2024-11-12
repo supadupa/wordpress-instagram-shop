@@ -41,16 +41,8 @@ $snapppt_options = get_option('snapppt');
 function snapppt_options() { register_setting('snapppt_options', 'snapppt'); }
 add_action('admin_init', 'snapppt_options');
 
-/********************** SAUCE VERSION ***************/
-add_action('rest_api_init', 'register_version_endpoint');
 
-function register_version_endpoint() {
-    register_rest_route('sauce/v1', '/version', [
-        'methods' => 'GET',
-        'callback' => 'plugin_version'
-    ]);
-}
-
+// register endpoint to remotely check Sauce Plugin version
 function plugin_version() {
     if (!function_exists('get_plugin_data')) {
         require_once ABSPATH . 'wp-admin/includes/plugin.php';
@@ -62,8 +54,14 @@ function plugin_version() {
         'version' => $plugin_data['Version'],
     ];
 }
-/*******************END OF SAUCE VERSION ***************/
+function register_version_endpoint() {
+    register_rest_route('sauce/v1', '/version', [
+        'methods' => 'GET',
+        'callback' => 'plugin_version'
+    ]);
+}
 
+add_action('rest_api_init', 'register_version_endpoint');
 
 // make the setting available to the REST API
 function sauce_register_setting() {
