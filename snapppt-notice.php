@@ -19,11 +19,11 @@ function snapppt_render_review_notice() {
   # with it not being dismissable as it should be
   return;
 
-  // only showing the review notice on the plugins page
-  if(!snapppt_show_review_notice()) { return; }
+// only showing the review notice on the plugins page
+if(!snapppt_show_review_notice()) { return; }
 
-  $maybe_later_url = add_query_arg('snapppt-notice-later', '1');
-  $never_url = add_query_arg('snapppt-notice-never', '1');
+$maybe_later_url = add_query_arg('snapppt-notice-later', '1');
+$never_url = add_query_arg('snapppt-notice-never', '1');
 
 $snapppt_notice = <<<EOT
   <div class="snapppt-notice notice is-dismissible">
@@ -37,7 +37,7 @@ $snapppt_notice = <<<EOT
   </div>
 EOT;
 
-  echo $snapppt_notice;
+echo $snapppt_notice;
 
 }
 add_action('admin_notices', 'snapppt_render_review_notice');

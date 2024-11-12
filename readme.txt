@@ -114,6 +114,8 @@ There’s also a handy [Help centre](http://help.addsauce.com). We are constantl
 
 = 1.2.0 =
 
+Note: upon Upgrade, please visit the 'Connected Accounts' section in your Sauce Account backoffice to trigger a re-connect to approve new permissions.
+
 Simplifies installation by no longer requiring you to copy and paste in your Sauce account ID.
 Tested with the latest versions of Wordpress (6.6) and WooCommerce (9.3).
 
