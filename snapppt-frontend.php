@@ -8,6 +8,7 @@ function insert_snapppt_conversion_code($order_id) {
   # we now push in via API setting, but fallback to $snapppt_options to help transition
   global $snapppt_options;
   $account_id = get_option('sauce_account_id') ?? $snapppt_options['account_id'];
+  // echo($account_id);
 
   if(empty($account_id)) { return; }
 
@@ -42,6 +43,9 @@ EOT;
 
   echo($snapppt_conversion_code);
 }
+
+// to render on the homepage to verify account ID
+// add_action('wp_head', 'insert_snapppt_conversion_code');
 
 add_action('woocommerce_thankyou', 'insert_snapppt_conversion_code');
 
