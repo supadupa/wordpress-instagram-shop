@@ -2,8 +2,8 @@
 Contributors: Sauce
 Tags: instagram shop, shoppable instagram, shoppable galleries, shoppable feed, social commerce, increase conversion, get more sales, increase sales, instagram marketing, instagram gallery, instagram feed embed, instagram live feed, sales conversions, analytics,  customer acquisition
 Requires at least: 2.8.0
-Tested up to: 6.3.1
-Stable tag: 1.1.13
+Tested up to: 6.6.2
+Stable tag: 1.2.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -109,6 +109,11 @@ There’s also a handy [Help centre](http://help.addsauce.com). We are constantl
 
 
 == Changelog ==
+
+= 1.2.0 =
+
+Simplifies installation by no longer requiring you to copy and paste in your Sauce account ID.
+Tested with the latest versions of Wordpress (6.6) and WooCommerce (9.3).
 
 = 1.1.13 =
 
