@@ -50,14 +50,16 @@ Customers no longer need to hunt down the things they saw in your instagram feed
 
 Shoppable Instagram feed galleries:
 
-* [NeverFullyDressed](https://www.neverfullydressed.co.uk/pages/insta)
-* [Tularosa](https://www.tularosa.com/pages/shop-instagram)
-* [NakedWolfe](https://nakedwolfe.com/pages/instagram)
-* [DylanLex](https://dylanlex.com/pages/shop-the-instagram)
-* [AbbottLyon](https://www.abbottlyon.com/pages/abbottlyon)
-* [FunSocks](https://funsocks.com/)
-* [BurtsBeesBaby](https://www.burtsbeesbaby.com/)
-* [Ginia](https://www.giniartw.com/pages/shop-instagram)
+* [Bauwerk Colour](https://www.bauwerkcolour.com/)
+* [Ancient + Brave](https://ancientandbrave.earth/)
+* [Bruna the Label](https://brunathelabel.com/)
+* [In Bed Store](https://inbedstore.com/)
+* [Yagya](https://yagya.com/)
+* [Umberto Giannini](https://www.umbertogiannini.com/)
+* [Milla](https://itsmilla.com/)
+* [saint sass](https://saintsass.com/)
+* [Muli Collection](https://mulicollection.com/)
+* [Mockberg](https://mockberg.de/)
 
 == Installation ==
 
