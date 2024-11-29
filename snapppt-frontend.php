@@ -2,14 +2,39 @@
 
 if(!defined( 'ABSPATH' )) exit; // Exit if accessed directly
 
-function insert_snapppt_conversion_code($order_id) {
-
-  # $snapppt_options was set when account ID required manually copy and paste
+function sauce_account_id() {
+  # $snapppt_options was set when account ID required manual copy and paste
   # we now push in via API setting, but fallback to $snapppt_options to help transition
   global $snapppt_options;
+
   $account_id = get_option('sauce_account_id');
   if(empty($account_id)) { $account_id = $snapppt_options['account_id']; }
+  return $account_id;
+}
 
+# use with Gutenberg Editor by adding a 'Shortcode' block with e.g:
+# [snapppt_embed embed_type="grid"]
+function snapppt_shortcodes_init() {
+  function snapppt_embed_func($atts) {
+    $account_id = sauce_account_id();
+    $embed_endpoint = SNAPPPT_URL . '/widgets/widget_loader/';
+    $embed_data = shortcode_atts(array(
+      'embed_type' => 'grid',
+      'account_id' => $account_id
+    ), $atts);
+    if($embed_data['account_id'] == '') {
+      return "<p>[ Sauce Embed - No account ID provided! ]</p>";
+    } else {
+      return "<script src='" . $embed_endpoint . esc_html($embed_data['account_id']) . "/" .
+        esc_html($embed_data['embed_type']) . ".js' class='snapppt-widget'></script>";
+    }
+  }
+  add_shortcode('snapppt_embed', 'snapppt_embed_func');
+}
+add_action('init', 'snapppt_shortcodes_init');
+
+function insert_snapppt_conversion_code($order_id) {
+  $account_id = sauce_account_id();
   if(empty($account_id)) { return; }
 
   $order = wc_get_order($order_id);

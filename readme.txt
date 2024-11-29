@@ -3,7 +3,7 @@ Contributors: Sauce
 Tags: social media, instagram, tiktok, social commerce, social proof
 Requires at least: 2.8.0
 Tested up to: 6.6.2
-Stable tag: 1.2.0
+Stable tag: 1.2.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -98,6 +98,11 @@ There’s also a handy [Help centre](http://help.addsauce.com). We are constantl
 
 
 == Changelog ==
+
+= 1.2.1 =
+
+Restore support for the embed shortcode removed in 1.2.0
+e.g [snapppt_embed embed_type="grid"]
 
 = 1.2.0 =
 
